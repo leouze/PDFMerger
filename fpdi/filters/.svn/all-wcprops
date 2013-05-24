@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/foxbuddy/!svn/ver/4847/branches/F9/core/protected/extensions/PDFMerger/fpdi/filters
+END
+FilterASCII85.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/foxbuddy/!svn/ver/4847/branches/F9/core/protected/extensions/PDFMerger/fpdi/filters/FilterASCII85.php
+END
+FilterASCII85_FPDI.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/foxbuddy/!svn/ver/4847/branches/F9/core/protected/extensions/PDFMerger/fpdi/filters/FilterASCII85_FPDI.php
+END
+FilterLZW_FPDI.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/foxbuddy/!svn/ver/4847/branches/F9/core/protected/extensions/PDFMerger/fpdi/filters/FilterLZW_FPDI.php
+END
+FilterLZW.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/foxbuddy/!svn/ver/4847/branches/F9/core/protected/extensions/PDFMerger/fpdi/filters/FilterLZW.php
+END
